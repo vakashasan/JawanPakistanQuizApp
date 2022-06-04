@@ -1,0 +1,90 @@
+.active {
+    background-color: rgb(252, 252, 252);
+}
+
+.hidden {
+    display: none;
+}
+
+.disabled {
+    background-color: gainsboro;
+}
+
+#title {
+    color: white;
+    display: inline-flex;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+  
+  
+}
+
+#timer {
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 25px;
+    float: right;
+}
+
+
+
+body {
+    background-image: url(./bg.jpg);
+    
+
+}
+
+.modal {
+    background-image: url(./bg.jpg);
+    
+
+}
+
+.card-text {
+    color: black;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+   
+}
+
+.title {
+    color: white;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+  
+}
+
+.time {
+    background: rgb(77, 77, 77);
+}
+
+.card-body {
+    background: rgb(202, 202, 202);
+}
+
+.btn {
+    background-color: black;
+    border-color: white;
+    color: white;
+    margin-left: 25px;
+    
+}
+
+.optionElement:hover {
+    background-color: rgb(244, 248, 247);
+    color: rgb(99, 98, 98);
+    
+}
+
